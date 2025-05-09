@@ -38,11 +38,11 @@ A lightweight Python crawler for web scraping and data extraction.
   ```sh
   python crawl_all.py
   ```
-Make a urls.txt in your project folder. Paste your URLs in the .txt and save.
+  Make a urls.txt in your project folder. Paste your URLs in the .txt and save.
 
 - **Generate or parse a sitemap:**
 
   ```sh
   python sitemap.py
   ```
-You will receive a prompt for the URL.
+  You will receive a prompt for the URL.
