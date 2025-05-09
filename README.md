@@ -25,6 +25,8 @@ A lightweight Python crawler for web scraping and data extraction, outputting in
    pip install -r requirements.txt
    ```
 
+ 3. **Create urls.txt in the project folder.**  
+
 ## Usage
 
 - **Crawl a single URL:**
@@ -39,7 +41,7 @@ A lightweight Python crawler for web scraping and data extraction, outputting in
   ```sh
   python crawl_all.py
   ```
-  Make a urls.txt in your project folder. Paste your URLs in the .txt and save. The output will be placed in markdown_downloads directory.
+  Paste your URLs in  urls.txt and save. The output will be placed in markdown_downloads directory.
 
 - **Generate or parse a sitemap:**
 
